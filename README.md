@@ -11,7 +11,7 @@ I've chosen a raw dataset from Kaggle. I saw it could be very interesting to stu
 
 Then I did statistical analysis using the iterative data analysis process to the data set.
 
-Data source: htt://wwww.kaggle.com/datasets/anandaramg/taxi-trip-data-nyc
+Data source: http://wwww.kaggle.com/datasets/anandaramg/taxi-trip-data-nyc
 
 ## 2. Project Steps
 
