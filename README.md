@@ -1,7 +1,9 @@
-# EDA & Statistical Analysis Project
-# Data-NYC-Taxicabs-Project
+# <p align="center"> EDA & Statistical Analysis Project </p>
+# <p align="center"> Data-NYC-Taxicabs-Project </p>
 
-![alt text](https://as1.ftcdn.net/v2/jpg/01/28/65/92/1000_F_128659204_PI24FOnFEBeIZez4f4dsn9TaM63JLMAa.jpg)
+<p align="center">
+  <img src="https://as1.ftcdn.net/v2/jpg/01/28/65/92/1000_F_128659204_PI24FOnFEBeIZez4f4dsn9TaM63JLMAa.jpg" width="800" height="700"/>
+</p>
 
 ## 1. Project Overview
 
